@@ -22,5 +22,9 @@ Functions tested:
 - Errors handled correctly
 
 ## Screenshot/Documents
-Failed Test
+
+## Failed Test
 ![Failed Test Screenshot](../assets/Screenshot_failedTest.png)
+
+## Passed Test
+![Passed Test Screenshot](../assets/Screenshot_passedTest.png)
