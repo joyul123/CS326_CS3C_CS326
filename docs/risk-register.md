@@ -12,3 +12,4 @@
 | Security vulnerabilities | 3 | 5 | 15 | Conduct security testing and validation | QA Lead |
 | Poor tutor search performance | 2 | 4 | 8 | Optimize database queries | Backend Lead |
 | Incomplete testing before submission | 4 | 5 | 20 | Enforce testing checklist before merge | QA Lead |
+| Bookmark feature complexity underestimated | 3 | 3 | 9 | Prototype UI before implementation | Frontend Lead |
