@@ -12,6 +12,7 @@ Build authentication and user registration foundation for Tutorio.
 | Login Authentication | Member 3 | 5 |
 | OTP Verification | Member 4 | 5 |
 | Browse Tutors (basic API) | Member 1 | 5 |
+| Bookmark Tutors | Member 2 | 3 |
 
 **Total Points:** 23
 
